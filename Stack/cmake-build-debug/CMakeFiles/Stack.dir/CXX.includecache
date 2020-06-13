@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mayank Sharma/CLionProjects/Stack/StackLL.h
+
+C:/Users/Mayank Sharma/CLionProjects/Stack/main.cpp
+iostream
+-
+StackLL.h
+C:/Users/Mayank Sharma/CLionProjects/Stack/StackLL.h
+climits
+C:/Users/Mayank Sharma/CLionProjects/Stack/climits
+

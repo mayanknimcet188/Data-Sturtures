@@ -1,0 +1,3 @@
+C:/Users/Mayank Sharma/CLionProjects/gameboard/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Mayank Sharma/CLionProjects/gameboard/cmake-build-debug/CMakeFiles/gameboard.dir
+C:/Users/Mayank Sharma/CLionProjects/gameboard/cmake-build-debug/CMakeFiles/edit_cache.dir

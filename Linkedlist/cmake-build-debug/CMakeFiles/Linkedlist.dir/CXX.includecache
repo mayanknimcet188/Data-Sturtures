@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mayank Sharma/CLionProjects/Linkedlist/Node.h
+
+C:/Users/Mayank Sharma/CLionProjects/Linkedlist/main.cpp
+iostream
+-
+Node.h
+C:/Users/Mayank Sharma/CLionProjects/Linkedlist/Node.h
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mayank Sharma/CLionProjects/HashMaps/main.cpp
+iostream
+-
+ourmap.h
+C:/Users/Mayank Sharma/CLionProjects/HashMaps/ourmap.h
+
+C:/Users/Mayank Sharma/CLionProjects/HashMaps/ourmap.h
+string
+-
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mayank Sharma/CLionProjects/PriorityQueues/PriorityQueue.h
+vector
+-
+algorithm
+-
+
+C:/Users/Mayank Sharma/CLionProjects/PriorityQueues/main.cpp
+iostream
+-
+PriorityQueue.h
+C:/Users/Mayank Sharma/CLionProjects/PriorityQueues/PriorityQueue.h
+

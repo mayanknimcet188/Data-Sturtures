@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mayank Sharma/CLionProjects/TrieNode/TrieNode.h
+string
+-
+
+C:/Users/Mayank Sharma/CLionProjects/TrieNode/main.cpp
+iostream
+-
+TrieNode.h
+C:/Users/Mayank Sharma/CLionProjects/TrieNode/TrieNode.h
+

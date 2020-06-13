@@ -1,0 +1,3 @@
+C:/Users/Mayank Sharma/CLionProjects/Stack/cmake-build-debug/CMakeFiles/Stack.dir
+C:/Users/Mayank Sharma/CLionProjects/Stack/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mayank Sharma/CLionProjects/Stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir

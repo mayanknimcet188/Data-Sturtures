@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mayank Sharma/CLionProjects/overloading/main.cpp
+main.hpp
+C:/Users/Mayank Sharma/CLionProjects/overloading/main.hpp
+
+C:/Users/Mayank Sharma/CLionProjects/overloading/main.hpp
+iostream
+-
+

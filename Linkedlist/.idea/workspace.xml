@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Linkedlist" targetName="Linkedlist" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56e376ca-f6a4-48da-9c2d-8172e425c66b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1a71qT9E7X1M2h7SWpF8AbGCQHo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BinaryTree" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Linkedlist" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Linkedlist" TARGET_NAME="Linkedlist" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Linkedlist" RUN_TARGET_NAME="Linkedlist">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56e376ca-f6a4-48da-9c2d-8172e425c66b" name="Default Changelist" comment="" />
+      <created>1586072008896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586072008896</updated>
+      <workItem from="1586072010257" duration="5520000" />
+      <workItem from="1586155974962" duration="1238000" />
+      <workItem from="1586327006275" duration="617000" />
+      <workItem from="1586361168913" duration="617000" />
+      <workItem from="1586413291914" duration="102000" />
+      <workItem from="1586849434380" duration="644000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1586879273358">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1586879273358" />
+    <state width="512" height="171" key="GridCell.Tab.0.bottom" timestamp="1586080435871">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="512" height="171" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1586080435871" />
+    <state width="512" height="171" key="GridCell.Tab.0.center" timestamp="1586080435871">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="512" height="171" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1586080435871" />
+    <state width="512" height="171" key="GridCell.Tab.0.left" timestamp="1586080435871">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="512" height="171" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1586080435871" />
+    <state width="512" height="171" key="GridCell.Tab.0.right" timestamp="1586080435871">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="512" height="171" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1586080435871" />
+    <state x="0" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1586413292799">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="0" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1586413292799" />
+  </component>
+</project>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="BinaryTree" targetName="BinaryTree" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05645835-840c-40ca-b870-352b9e9cdfa4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1aPILCHv3PhPQQjKCUvcRrqQm7F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BinaryTree" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BinaryTree" TARGET_NAME="BinaryTree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BinaryTree" RUN_TARGET_NAME="BinaryTree">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05645835-840c-40ca-b870-352b9e9cdfa4" name="Default Changelist" comment="" />
+      <created>1586630743153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586630743153</updated>
+      <workItem from="1586630747373" duration="1389000" />
+      <workItem from="1586672239600" duration="3466000" />
+      <workItem from="1586687649016" duration="654000" />
+      <workItem from="1586770098864" duration="964000" />
+      <workItem from="1586791089110" duration="2476000" />
+      <workItem from="1586847439276" duration="630000" />
+      <workItem from="1586879276557" duration="2718000" />
+      <workItem from="1586930824399" duration="6100000" />
+      <workItem from="1587030355299" duration="1755000" />
+      <workItem from="1587040233140" duration="1324000" />
+      <workItem from="1587105739468" duration="22000" />
+      <workItem from="1588217174464" duration="154000" />
+      <workItem from="1588274084299" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="813" y="144" key="FileChooserDialogImpl" timestamp="1586849430849">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="813" y="144" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1586849430849" />
+    <state width="532" height="164" key="GridCell.Tab.0.bottom" timestamp="1586886326223">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="532" height="164" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1586886326223" />
+    <state width="532" height="164" key="GridCell.Tab.0.center" timestamp="1586886326223">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="532" height="164" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1586886326223" />
+    <state width="532" height="164" key="GridCell.Tab.0.left" timestamp="1586886326223">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="532" height="164" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1586886326223" />
+    <state width="532" height="164" key="GridCell.Tab.0.right" timestamp="1586886326223">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="532" height="164" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1586886326223" />
+    <state x="0" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1588274084744">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="0" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1588274084744" />
+  </component>
+</project>
